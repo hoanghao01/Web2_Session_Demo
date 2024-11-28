@@ -1,0 +1,9 @@
+Xây dựng demo Login
+
+index.php
+ - Login 
+    a) Fail => thông báo
+    b) Success => giấu form login / chào admin / show 2 trang còn lại / nút log out
+
+ruttien.php
+naptien.php
